@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/___himanshi291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/___himanshi291" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/@___himanshi291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/___himanshi291" height="30" width="40" /></a>
 <a href="https://twitter.com/@himanshi21685821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@himanshi21685821" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshi-kashyap-6b178624a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshi-kashyap-6b178624a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22763411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22763411" height="30" width="40" /></a>
