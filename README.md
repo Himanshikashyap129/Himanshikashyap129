@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himanshi Kashyap</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A Web developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshikashyap129&label=Profile%20views&color=0e75b6&style=flat" alt="himanshikashyap129" /> </p>
 
-- 🌱 I’m currently learning **MERN Full Stack**
+- 🌱 I’m currently a **MERN Stack Web Developer**
 
 - 💬 Ask me about **C, C++, Java, HTML, CSS, JS, Data Structure**
 
